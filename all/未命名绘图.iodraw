@@ -40,8 +40,8 @@
         <mxCell id="07h9MMi-iR8s3UsaeUhW-11" value="活动点信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07h9MMi-iR8s3UsaeUhW-12" value="活动点信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="250" width="70" height="20" as="geometry" />
+        <mxCell id="07h9MMi-iR8s3UsaeUhW-12" value="城市合伙人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-13" value="教务信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="280" width="70" height="20" as="geometry" />
