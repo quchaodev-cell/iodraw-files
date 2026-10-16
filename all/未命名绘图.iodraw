@@ -14,43 +14,43 @@
           <mxGeometry x="670" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-2" value="订单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="70" height="20" as="geometry" />
+          <mxGeometry x="340" y="400" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-3" value="课时信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="460" width="70" height="20" as="geometry" />
+          <mxGeometry x="340" y="460" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-4" value="物流信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="430" width="70" height="20" as="geometry" />
+          <mxGeometry x="340" y="430" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-6" value="代领人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="370" width="70" height="20" as="geometry" />
+          <mxGeometry x="340" y="370" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-7" value="代领人更换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="170" width="70" height="20" as="geometry" />
+          <mxGeometry x="340" y="170" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-8" value="代领人绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="70" height="20" as="geometry" />
+          <mxGeometry x="340" y="200" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-9" value="小组信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="230" width="70" height="20" as="geometry" />
+          <mxGeometry x="340" y="230" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-10" value="佣金信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="260" width="70" height="20" as="geometry" />
+          <mxGeometry x="340" y="260" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-11" value="活动点信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="50" width="70" height="20" as="geometry" />
+          <mxGeometry x="340" y="50" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-12" value="城市合伙人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="140" width="90" height="20" as="geometry" />
+          <mxGeometry x="340" y="140" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-13" value="教务信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="110" width="70" height="20" as="geometry" />
+          <mxGeometry x="340" y="110" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-14" value="教师信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="70" height="20" as="geometry" />
+          <mxGeometry x="340" y="80" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-16" value="合伙宝妈审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="290" width="90" height="20" as="geometry" />
+          <mxGeometry x="510" y="290" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
