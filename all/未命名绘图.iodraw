@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2USSY-NxXtyDt9ZKBgt7-1" value="学员管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2USSY-NxXtyDt9ZKBgt7-2" value="会员管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="07h9MMi-iR8s3UsaeUhW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="07h9MMi-iR8s3UsaeUhW-1" value="工作台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
