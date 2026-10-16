@@ -55,11 +55,6 @@
             <mxPoint x="190" y="180.03999999999996" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="07h9MMi-iR8s3UsaeUhW-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="07h9MMi-iR8s3UsaeUhW-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130.03999999999996" y="210" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-2" value="订单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="490" width="70" height="20" as="geometry" />
         </mxCell>
@@ -171,7 +166,7 @@
           <mxGeometry x="680" y="180" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-80" value="会员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
