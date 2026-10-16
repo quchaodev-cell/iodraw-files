@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2USSY-NxXtyDt9ZKBgt7-1" value="学员管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2USSY-NxXtyDt9ZKBgt7-2" value="会员管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-1" value="工作台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-2" value="订单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="320" width="70" height="20" as="geometry" />
