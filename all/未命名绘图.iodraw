@@ -23,7 +23,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2USSY-NxXtyDt9ZKBgt7-1" target="07h9MMi-iR8s3UsaeUhW-23">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="340" />
+              <mxPoint x="190" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2USSY-NxXtyDt9ZKBgt7-1" value="学员管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="410" width="120" height="60" as="geometry" />
@@ -104,7 +109,7 @@
           <mxGeometry x="720" y="320" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-23" value="开发票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="290" width="80" height="20" as="geometry" />
+          <mxGeometry x="50" y="300" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-25" value="SP录入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="380" width="80" height="20" as="geometry" />
