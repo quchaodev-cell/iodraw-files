@@ -37,8 +37,8 @@
         <mxCell id="07h9MMi-iR8s3UsaeUhW-10" value="佣金信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="210" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07h9MMi-iR8s3UsaeUhW-11" value="代领人绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="180" width="70" height="20" as="geometry" />
+        <mxCell id="07h9MMi-iR8s3UsaeUhW-11" value="活动点信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
