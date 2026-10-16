@@ -10,8 +10,14 @@
         <mxCell id="2USSY-NxXtyDt9ZKBgt7-2" value="会员管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="07h9MMi-iR8s3UsaeUhW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="07h9MMi-iR8s3UsaeUhW-1" target="07h9MMi-iR8s3UsaeUhW-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="07h9MMi-iR8s3UsaeUhW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="07h9MMi-iR8s3UsaeUhW-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="290.02857142857135" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="660" y="290" />
+              <mxPoint x="660" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-1" value="工作台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
@@ -53,31 +59,31 @@
           <mxGeometry x="340" y="80" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-16" value="合伙宝妈审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="170" width="90" height="20" as="geometry" />
+          <mxGeometry x="680" y="170" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-17" value="绑定代领人审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="200" width="90" height="20" as="geometry" />
+          <mxGeometry x="680" y="200" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-18" value="更换代领人审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="230" width="90" height="20" as="geometry" />
+          <mxGeometry x="680" y="230" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-20" value="脚本执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="260" width="90" height="20" as="geometry" />
+          <mxGeometry x="680" y="260" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-21" value="课时充值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="290" width="90" height="20" as="geometry" />
+          <mxGeometry x="680" y="290" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-22" value="发票信息审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="90" height="20" as="geometry" />
+          <mxGeometry x="680" y="320" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-23" value="开发票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-25" value="SP录入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="380" width="80" height="20" as="geometry" />
+          <mxGeometry x="680" y="380" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-27" value="发票上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="350" width="90" height="20" as="geometry" />
+          <mxGeometry x="680" y="350" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="07h9MMi-iR8s3UsaeUhW-29" value="学员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="310" width="70" height="20" as="geometry" />
